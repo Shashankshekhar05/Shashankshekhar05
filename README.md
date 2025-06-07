@@ -23,6 +23,12 @@
 | **Database**| MySQL, PostgreSQL                       |
 | **Tools**   | Git, Postman, Swagger, Maven, IntelliJ  |
 
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+
 ---
 
 ## 🚀 Projects
@@ -46,7 +52,7 @@ A beginner-friendly demo of CRUD operations following a layered architecture pat
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/shashankshekhar05)
-- 📧 Email: `shashank705053@gmail.com`
+- 📧 Email: `shashank705053@gmail.com`  
 - 🌐 Portfolio: [Personal Portfolio](https://github.com/Shashankshekhar05/PersonalPortfolio)
 
 ---

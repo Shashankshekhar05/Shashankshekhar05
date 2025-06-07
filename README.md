@@ -46,7 +46,7 @@ A beginner-friendly demo of CRUD operations following a layered architecture pat
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/shashankshekhar05)
-- 📧 Email: `shashankshekhar05@gmail.com`
+- 📧 Email: `shashank705053@gmail.com`
 - 🌐 Portfolio: [Personal Portfolio](https://github.com/Shashankshekhar05/PersonalPortfolio)
 
 ---

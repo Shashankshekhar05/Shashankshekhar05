@@ -1,61 +1,108 @@
+<h1 align="center">Hi 👋, I'm Shashank Shekhar</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Learning+React+%26+AWS;Building+Scalable+Backends" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Learning+React+%26+AWS;Building+Scalable+Backend+Systems"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shashank705053@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-🎓 A passionate **Java Backend Developer** skilled in **Spring Boot**, **Java**, and enthusiastic about building scalable backend APIs.  
-🌱 Currently learning **React.js**, **AWS**, and expanding into **full-stack development**.
-
----
-
-## 💼 About Me
-
-- 💻 I love creating clean, scalable backend solutions
-- 🧠 Constantly learning and growing in Backend, DevOps, and Cloud
+## 🎓 About Me
+- 💻 Passionate Java Backend Developer
+- 🧩 Skilled in Spring Boot & RESTful APIs
 - 📘 Final-year Computer Science student
-- 🔍 Open to Backend Java/Spring Boot Developer roles
+- 🌱 Currently learning React.js & AWS
+- 🔍 Open to Backend Java / Spring Boot Developer roles
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-| Domain      | Technologies                            |
-|-------------|-----------------------------------------|
-| **Backend** | Java, Spring Boot, Spring MVC, JPA, REST |
-| **Frontend**| HTML, CSS, JavaScript, React (Learning)  |
-| **Database**| MySQL, PostgreSQL                       |
-| **Tools**   | Git, Postman, Swagger, Maven, IntelliJ  |
+### 🔧 Backend
+- Java  
+- Spring Boot  
+- Spring MVC  
+- JPA / Hibernate  
+- REST APIs  
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+### 🎨 Frontend (Learning)
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+
+### 🗄 Databases
+- MySQL  
+- PostgreSQL  
+
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Swagger  
+- Maven  
+- IntelliJ IDEA  
+- AWS (Learning)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgresql,aws,git,github,postman" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 💰 Expense Management System  
-> Spring Boot + JWT + MySQL  
-RESTful API for managing enterprise-level expenses. Supports user registration, authentication, and CRUD operations.  
-🔗 https://github.com/Shashankshekhar05/backend-expense-management
-
-### 🛒 E-Commerce Backend  
-> Java + Spring Boot  
-API for managing products, categories, and users in a simple e-commerce environment.  
-🔗 https://github.com/Shashankshekhar05/Ecommerce-backend
-
-### 🔁 CRUD Operations  
-> Spring Boot + JPA  
-A beginner-friendly demo of CRUD operations following a layered architecture pattern.  
-🔗 https://github.com/Shashankshekhar05/CRUD-Operation-Spring-Boot
+### 💰 Expense Management System
+🔹 Spring Boot + JWT + MySQL  
+- Enterprise-level expense management REST API  
+- User authentication & authorization  
+- Secure CRUD operations  
 
 ---
 
-## 📫 Connect with Me
+### 🛒 E-Commerce Backend
+🔹 Java + Spring Boot  
+- APIs for products, categories & users  
+- Clean layered architecture  
+- RESTful design principles  
 
-- 💼 LinkedIn: https://linkedin.com/in/shashankshekhar05
-- 📧 Email: shashank705053@gmail.com
-- 🌐 Portfolio: https://github.com/Shashankshekhar05/PersonalPortfolio
+---
+
+### 🔁 CRUD Operations Demo
+🔹 Spring Boot + JPA  
+- Beginner-friendly CRUD project  
+- Demonstrates Controller–Service–Repository pattern  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/shashankshekhar05/
+- 📧 Email: radiant.shashankshekhar@gmail.com 
+- 🌐 Portfolio: https://shekharshashank.vercel.app 
+
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my repositories and connect.*

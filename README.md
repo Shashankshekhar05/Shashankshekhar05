@@ -1,4 +1,8 @@
-# 👋 Hello there, I'm Shashank Shekhar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Learning+React+%26+AWS;Building+Scalable+Backends" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:38B2AC,100:0F2027&height=90&section=header" />
 
 🎓 A passionate **Java Backend Developer** skilled in **Spring Boot**, **Java**, and enthusiastic about building scalable backend APIs.  
 🌱 Currently learning **React.js**, **AWS**, and expanding into **full-stack development**.
@@ -7,54 +11,69 @@
 
 ## 💼 About Me
 
-- 💻 I love creating clean, scalable backend solutions
-- 🧠 Constantly learning and growing in Backend, DevOps, and Cloud
-- 📘 Final-year Computer Science student
-- 🔍 Open to Backend Java/Spring Boot Developer roles
+- 💻 I love creating clean, scalable backend solutions  
+- 🧠 Constantly learning Backend, DevOps, and Cloud  
+- 📘 Final-year Computer Science student  
+- 🔍 Open to Backend Java / Spring Boot roles  
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0F2027&height=70&section=header" />
 
 ---
 
 ## 🔧 Tech Stack
 
-| Domain      | Technologies                            |
-|-------------|-----------------------------------------|
-| **Backend** | Java, Spring Boot, Spring MVC, JPA, REST |
-| **Frontend**| HTML, CSS, JavaScript, React (Learning)  |
-| **Database**| MySQL, PostgreSQL                       |
-| **Tools**   | Git, Postman, Swagger, Maven, IntelliJ  |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,aws,mysql,postgres,git,maven&perline=4" />
+</p>
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankshekhar05&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankshekhar05&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my key backend development projects:
+<details>
+<summary><b>💰 Expense Management System</b></summary>
 
-### 💰 [Expense Management System](https://github.com/Shashankshekhar05/backend-expense-management)
-> Spring Boot + JWT + MySQL  
-RESTful API for managing enterprise-level expenses. Supports user registration, authentication, and CRUD operations.
+- Spring Boot + JWT + MySQL  
+- Secure authentication & authorization  
+- RESTful APIs with clean layered architecture  
 
-### 🛒 [E-Commerce Backend](https://github.com/Shashankshekhar05/Ecommerce-backend)
-> Java + Spring Boot  
-API for managing products, categories, and users in a simple e-commerce environment.
+🔗 https://github.com/Shashankshekhar05/backend-expense-management
+</details>
 
-### 🔁 [CRUD Operations](https://github.com/Shashankshekhar05/CRUD-Operation-Spring-Boot)
-> Spring Boot + JPA  
-A beginner-friendly demo of CRUD operations following a layered architecture pattern.
+<details>
+<summary><b>🛒 E-Commerce Backend</b></summary>
+
+- Java + Spring Boot  
+- Product, category, and user management APIs  
+
+🔗 https://github.com/Shashankshekhar05/Ecommerce-backend
+</details>
+
+<details>
+<summary><b>🔁 CRUD Operations</b></summary>
+
+- Spring Boot + JPA  
+- Beginner-friendly layered architecture demo  
+
+🔗 https://github.com/Shashankshekhar05/CRUD-Operation-Spring-Boot
+</details>
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/shashankshekhar05)
-- 📧 Email: `shashank705053@gmail.com`  
-- 🌐 Portfolio: [Personal Portfolio](https://github.com/Shashankshekhar05/PersonalPortfolio)
+- 💼 LinkedIn: https://linkedin.com/in/shashankshekhar05  
+- 📧 Email: shashank705053@gmail.com  
+- 🌐 Portfolio: https://github.com/Shashankshekhar05/PersonalPortfolio  
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories and connect!*
+![snake animation](https://github.com/Shashankshekhar05/Shashankshekhar05/blob/output/github-contribution-grid-snake.svg)

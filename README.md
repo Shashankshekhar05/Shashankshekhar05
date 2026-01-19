@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shashankshekhar05/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:shashank705053@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://shekharshashank.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -85,18 +85,7 @@
 - Beginner-friendly CRUD project  
 - Demonstrates Controller–Service–Repository pattern  
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shashankshekhar05/

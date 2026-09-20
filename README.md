@@ -349,11 +349,11 @@ I'm particularly interested in opportunities involving:
 <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Shekhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://shekharshashank.vercel.app">
+<a href="https://shashank-ai-essence.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-shekharshashank.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:shashank705053@gmail.com">
+<a href="mailto:radiant.shashankshekhar@gmail.com">
 <img src="https://img.shields.io/badge/Email-shashank705053%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

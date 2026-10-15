@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/shashankshekhar05/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shashank705053@gmail.com">
+  <a href="mailto:radiant.shashankshekhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://shashank-ai-essence.lovable.app">
@@ -358,7 +358,7 @@ I'm particularly interested in opportunities involving:
 </a>
 
 <a href="mailto:radiant.shashankshekhar@gmail.com">
-<img src="https://img.shields.io/badge/Email-shashank705053%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-radiant.shashankshekhar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -372,5 +372,3 @@ I'm particularly interested in opportunities involving:
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
-
-

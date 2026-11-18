@@ -1,374 +1,125 @@
-![Banner](https://capsule-render.vercel.app/wave?type=waving&height=300&text=Shashank%20Shekhar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Ultra%20Visual%20Things&descAlignY=55&color=gradient)
-
-![Banner](https://raw.githubusercontent.com/Shashankshekhar05/Shashankshekhar05/main/assets/banner.svg)
-
-<h1 align="center">Hi 👋, I'm Shashank Shekhar</h1>
-
-<h3 align="center">AI Engineer • Generative AI • RAG • LLM Applications • Backend Engineering</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+GenAI+Developer;Building+RAG+Systems;Building+Ultra+Visual+Things"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shashank%20Shekhar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%C2%B7%20RAG%20%C2%B7%20Agents&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashankshekhar05/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:radiant.shashankshekhar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shashank-ai-essence.lovable.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Building+voice+AI+that+handles+real+calls;RAG+systems+grounded+in+real+data;Agents+with+LangChain+%26+LangGraph;Open+to+remote%2C+onsite+%26+freelance" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashankshekhar05&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Onsite%20%7C%20Freelance-2ea44f?style=for-the-badge" />
+  <a href="mailto:[YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://linkedin.com/in/shashankshekhar05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
 </p>
+
+# Hey, I'm Shashank 👋
+
+I build AI systems that have to work when real people are on the other end, like phone calls that can't drop, CRMs that have to stay in sync, and answers that have to be grounded in real data.
+
+I'm an AI engineer based in Chandigarh, India. I mostly work in Python and FastAPI, and I'm open to remote roles, onsite roles, and freelance projects.
 
 ---
 
-## 🧠 About Me
+## What I do
 
-I'm an **AI Engineer focused on building practical Generative AI applications** and intelligent backend systems.
+- **Voice AI:** AI calling agents, telephony, call transfers, recordings
+- **RAG and document intelligence:** retrieval systems that answer from your data, not from guesses
+- **AI agents:** tool-calling agents and workflows with LangChain and LangGraph
+- **Backend engineering:** multi-tenant APIs, OAuth integrations, Postgres, Redis. Before AI I wrote Java and Spring Boot, and that background still shows in how I build.
 
-My current focus is on **LLM applications, Retrieval-Augmented Generation (RAG), semantic search, AI agents, intelligent automation, and production-oriented AI APIs**.
+---
 
-I combine AI development with a strong backend engineering foundation to build systems that go beyond simple demos.
+## The project I'm proudest of: a multi-tenant AI voice dialer
 
-```text
-AI Engineering
-      │
-      ├── Generative AI
-      ├── LLM Applications
-      ├── RAG Systems
-      ├── Semantic Search
-      ├── AI Agents
-      ├── Tool Calling
-      └── AI Automation
+I built the backend of a multi-tenant AI voice dialer at [COMPANY NAME or "a SaaS startup in Mohali"], a platform where businesses run AI-powered outbound calls and have the results flow into their CRM. It ran at 1000+ calls a day. (The code is private, so here's what's inside.)
 
-Backend Engineering
-      │
-      ├── Python
-      ├── FastAPI
-      ├── Java
-      ├── Spring Boot
-      ├── REST APIs
-      └── Databases
+```mermaid
+flowchart LR
+    A[Lead / Campaign] --> B[FastAPI Backend]
+    B <--> C[(PostgreSQL)]
+    B <--> D[(Redis)]
+    B --> E[Twilio / Plivo]
+    E <--> F[Ultravox / Bolna<br/>Voice AI]
+    E -->|hunt-dial transfer<br/>+ whisper briefing| G[Human Agent]
+    B <-->|OAuth2 sync| H[Zoho · HubSpot · GoHighLevel]
+    E -->|recordings| I[(AWS S3)]
 ```
 
----
+**What it does**
+- Places AI-driven calls through Twilio and Plivo, with Ultravox and Bolna as voice providers
+- Syncs with **Zoho CRM, HubSpot and GoHighLevel** through OAuth2: bidirectional contact sync, call notes pushed back after each call
+- Hands off to a human mid-call with a hunt-dial transfer and a **warm whisper briefing**, so the human knows who they're talking to before they speak
+- Stores recordings on S3, with each customer's data kept separate
 
-## 🚀 Featured Project
+**Stack:** Python, FastAPI, PostgreSQL, Redis, Twilio, Plivo, Ultravox, Bolna, AWS S3
 
-### 🤖 RAG Chatbot
+**What I owned:** the backend, the CRM integrations, the call-transfer flows, and the setup guides customers used to connect their own CRMs.
 
-<p align="center">
-  <a href="https://github.com/Shashankshekhar05/RAG-CHATBOOT">
-    <img src="https://img.shields.io/badge/View%20Project-RAG%20Chatbot-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**The unglamorous lessons:** CRM data is messy (I once chased a phone-number uniqueness bug across two systems), providers fail in different ways, and "works in a demo" and "works on call number 900" are different problems.
 
-An end-to-end **Retrieval-Augmented Generation (RAG)** application that allows users to interact with information contained in their documents.
-
-### 🔥 What it demonstrates
-
-* 📄 Document ingestion
-* ✂️ Text preprocessing & chunking
-* 🧮 Embedding generation
-* 🔎 Semantic/vector retrieval
-* 🧠 LLM-powered response generation
-* 🔗 Retrieval + generation pipeline
-* ⚡ API-based architecture
-* 💬 Context-aware question answering
-
-### 🏗️ RAG Architecture
-
-```text
-                    ┌──────────────────┐
-                    │      User        │
-                    │     Query        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   Query          │
-                    │   Processing     │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │    Embedding     │
-                    │    Generation    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Vector /         │
-                    │ Semantic Search  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Relevant         │
-                    │ Context          │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │       LLM        │
-                    │ Query + Context  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Grounded AI      │
-                    │ Response         │
-                    └──────────────────┘
-```
-
-<p align="center">
-  <a href="https://github.com/Shashankshekhar05/RAG-CHATBOOT">
-    <b>🔗 Explore the RAG Chatbot →</b>
-  </a>
-</p>
+[Read the architecture write-up →]([LINK TO YOUR PDF OR BLOG])
 
 ---
 
-# 🛠️ Technical Skills
+## Public work you can actually read
 
-## 🤖 Generative AI
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" />
-</p>
-
-* Large Language Models
-* Prompt Engineering
-* Retrieval-Augmented Generation
-* Embeddings
-* Vector Search
-* Semantic Search
-* AI Agents
-* Tool Calling
-* Intelligent Automation
-
----
-
-## 🐍 AI & Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,mysql,git,github,docker,postman" />
-</p>
-
-* Python
-* FastAPI
-* REST APIs
-* Java
-* Spring Boot
-* Spring MVC
-* JPA / Hibernate
-* JWT Authentication
-* SQL
-* Backend Architecture
-
----
-
-## 🗄️ Databases & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-* PostgreSQL
-* MySQL
-* SQL
-* Vector Databases
-* Document Retrieval
-* Structured & Unstructured Data
-
----
-
-# 🚀 Projects
-
-## 🤖 RAG Chatbot
-
-**Generative AI • RAG • LLM • Embeddings • Vector Search • FastAPI**
-
-An AI-powered document question-answering system based on Retrieval-Augmented Generation.
-
-**Highlights**
-
-* Document processing pipeline
-* Text chunking
-* Embeddings
-* Semantic retrieval
-* Context injection
-* LLM response generation
-* API-driven architecture
-
-🔗 **Repository:**
-https://github.com/Shashankshekhar05/RAG-CHATBOOT
-
----
-
-## 💰 Expense Management System
-
-**Java • Spring Boot • JWT • MySQL**
-
-A backend application designed around secure expense management workflows.
-
-**Highlights**
-
-* User authentication
-* JWT authorization
-* REST APIs
-* CRUD operations
-* Database persistence
-* Layered architecture
-
----
-
-## 🛒 E-Commerce Backend
-
-**Java • Spring Boot • REST APIs • Database**
-
-Backend services for core e-commerce operations.
-
-**Highlights**
-
-* Product APIs
-* Category management
-* User APIs
-* RESTful architecture
-* Controller-Service-Repository pattern
-* Database integration
-
----
-
-# 🧩 Engineering Philosophy
-
-I don't want to build AI systems that simply produce impressive demos.
-
-I focus on understanding the complete pipeline:
-
-```text
-Problem
-   ↓
-Data
-   ↓
-Retrieval
-   ↓
-Reasoning
-   ↓
-Generation
-   ↓
-API
-   ↓
-Application
-   ↓
-Deployment
-```
-
-The goal is to build **useful, reliable and maintainable AI systems**.
-
----
-
-# 📈 Current Focus
-
-```text
-┌─────────────────────────────────────┐
-│       CURRENT AI ENGINEERING        │
-├─────────────────────────────────────┤
-│                                     │
-│  🔎 RAG Systems                     │
-│  🧠 LLM Applications                │
-│  🤖 AI Agents                       │
-│  🔗 Tool Calling                    │
-│  ⚡ AI Automation                   │
-│  🐍 Python + FastAPI                │
-│  🗄️ Vector Search                  │
-│  🚀 Production-oriented AI         │
-│                                     │
-└─────────────────────────────────────┘
-```
-
----
-
-# 💼 Open To
-
-**AI Engineer • GenAI Engineer • AI Developer • Backend Engineer**
-
-I'm particularly interested in opportunities involving:
-
-* Generative AI
-* LLM applications
-* RAG systems
-* AI agents
-* AI automation
-* Python backend development
-* FastAPI
-* Intelligent document processing
-* Backend/API engineering
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashankshekhar05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankshekhar05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashankshekhar05&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shashankshekhar05/">
-<img src="https://img.shields.io/badge/LinkedIn-Shashank%20Shekhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Shashankshekhar05/finance-ai-platform">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar05&repo=finance-ai-platform&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shashankshekhar05/RAG-System-designed">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar05&repo=RAG-System-designed&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shashankshekhar05/paylane-agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar05&repo=paylane-agent&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shashankshekhar05/Ai_Assisted_interview">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashankshekhar05&repo=Ai_Assisted_interview&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://shashank-ai-essence.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-shekharshashank.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:radiant.shashankshekhar@gmail.com">
-<img src="https://img.shields.io/badge/Email-radiant.shashankshekhar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- **finance-ai-platform:** an AI finance platform with RAG, deterministic calculations (so the numbers are never hallucinated), SQL analytics, hybrid AI routing, JWT/RBAC and conversational context
+- **RAG-System-designed:** [ONE LINE: what makes this one different]
+- **paylane-agent:** [ONE LINE: what it does]
+- **Ai_Assisted_interview:** [ONE LINE: what it does]
 
 ---
 
-<p align="center">
-  <b>Building intelligent systems with AI + Engineering.</b>
+## What I'm working on right now
+
+- Going deep on **Google ADK** and comparing it with LangGraph for agent workflows
+- Building a LangChain/LangGraph agent that I'll publish here soon
+- Writing up my voice AI architecture so others can learn from it
+
+---
+
+## Tools I reach for
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
 </p>
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+**AI:** RAG pipelines, embeddings and vector search, prompt and tool-calling design, voice agents (Ultravox, Bolna)
+**Backend:** REST, OAuth2, JWT, MySQL, webhooks, Plivo
+
+---
+
+## Work with me
+
+**Hiring?** I'm looking for AI engineer, voice AI, agentic AI or Python backend roles, remote or onsite.
+**Have a project?** I take freelance work on voice agents, RAG systems, CRM integrations and AI backends.
+
+📧 [YOUR EMAIL]
+💼 [LinkedIn](http://linkedin.com/in/shashankshekhar05)
+🌐 [Portfolio](https://shashank-ai-essence.lovable.app)
+
+I usually reply within a day.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" />
